@@ -1,0 +1,8 @@
+{
+  "name": "str-utils",
+  "version": "1.2.0",
+  "description": "Lightweight string manipulation utilities",
+  "main": "src/index.js",
+  "scripts": { "test": "node test/index.test.js" },
+  "license": "MIT"
+}
